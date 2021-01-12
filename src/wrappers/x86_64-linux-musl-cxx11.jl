@@ -15,7 +15,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libclang,
         "lib/libclang.so",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        nothing,
     )
 
     JLLWrappers.@generate_init_footer()
