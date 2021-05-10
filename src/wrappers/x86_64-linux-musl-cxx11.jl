@@ -4,7 +4,7 @@ export clang, libclang
 using libLLVM_assert_jll
 JLLWrappers.@generate_wrapper_header("Clang_assert")
 JLLWrappers.@declare_executable_product(clang)
-JLLWrappers.@declare_library_product(libclang, "libclang.so.11jl")
+JLLWrappers.@declare_library_product(libclang, "libclang.so.12jl")
 function __init__()
     JLLWrappers.@generate_init_header(libLLVM_assert_jll)
     JLLWrappers.@init_executable_product(
