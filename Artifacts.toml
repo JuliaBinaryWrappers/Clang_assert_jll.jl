@@ -5,7 +5,7 @@ os = "macos"
 
     [[Clang_assert.download]]
     sha256 = "1efcb0d7f2a80329efd08c2e921ca6b06bc13b06f0932c32fc27477c578912e1"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.aarch64-apple-darwin.tar.gz"
 [[Clang_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "827a954f25949cc34f5959f8d0e3900d3e1e584864d93b450fe5c61126399814"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "d8a08b524c7bcfd02f9b2e1b1b95b26b21e1edfba822574031f7c948acac7015"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "3b0145d7b9f589939e97a089e306eb217bc4f84f0abaad297fe6f2324e9b8273"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "0f7ddb660c6d9ccd73b970733bbb47147441698636e0bdca26eba29e83cda625"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "f2272735548f8fb7133fa4f4153538247ef48bc63130ecfb05f8b04cdc436370"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -67,7 +67,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "13eb1a06bf60129a8d6af30ce5bbc8c659a0605af3d4654e33bd662cea2d7f95"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -78,7 +78,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "3d6c90ec7214e85a4bc878d60f4059bd52bd617d774c822b13861214509265ce"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "9bf809fc449f456d857db11082fc386ebcb5c9e35248f0638c9e0ec31f4d9027"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -100,7 +100,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "48186774a32400ec540b17f6540d65f058e39364ebfa68334477f392dff730ff"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -111,7 +111,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "98786cba20ac40ecf9ecaa1dee1b5b4bc4b9051af98255e3eafd389ac18da18d"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -122,7 +122,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "d0e08622a055cdc830587b5bca3c4bf7d7b74f0b3e309b27f14758d35464fbd0"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "c3e04b8a4810c26ba38b0a2b1a01b6c78ed1cbd2e4c36c174723438b93d9756b"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -143,7 +143,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "771eac18b5a2c486c0255abecde565d489edb51e17d0b542d109cecbb41d5753"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.i686-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.i686-linux-gnu-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -153,7 +153,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "02cd24965c4e92b21627784b6a3f0bdb9063e59a6a138c196d905c5a42315a69"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.i686-linux-gnu-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -163,7 +163,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "f54ba75afd18d3fff3b0146ebae0c1e3f9126d21161166b909cde65f7542a384"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.i686-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.i686-linux-musl-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -173,7 +173,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "562ebec7b7e869174fa1ad43a610bd6e6e711aec0cd47a070ad203913cd575c8"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.i686-linux-musl-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -182,7 +182,7 @@ os = "windows"
 
     [[Clang_assert.download]]
     sha256 = "2a8dbf3ab752f7e73d9e6bb2e30cc7174c435990a09e69849fcc7dd5be3f6b38"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.i686-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -191,7 +191,7 @@ os = "windows"
 
     [[Clang_assert.download]]
     sha256 = "7033c11211bef51c1c56025776805dff30e79abd7184d1b00519355a38121b02"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.i686-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -201,7 +201,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "4ecfd6592a929ee8cb18f28923ef052e63604d883a4d0c708b5641f23a58c860"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -211,7 +211,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "e03bc82a2f8dfa67fcd24da15abe79cd571fbf9c6136bd995120368a18641563"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 git-tree-sha1 = "381c153b23487f280a2261591e477841fe26580c"
@@ -219,7 +219,7 @@ os = "macos"
 
     [[Clang_assert.download]]
     sha256 = "bf5e4d213d03de24d9c7923b23ac80b5ccdf837dbcf022c6f0ca54a9c59aadc1"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-apple-darwin.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -229,7 +229,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "b7d649bad911bc51af8ee3309f42bd933af4e6581e6e4759cb77300289f481a9"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -239,7 +239,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "893d176658826baf1ea502d3a5fb7814d1181790fcc2d1448ee9b14fa452a8ef"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -249,7 +249,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "5420249af75d42354f5c30c5a7a75977ef51138b7b927b6d08d974887ccc3100"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-linux-musl-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -259,7 +259,7 @@ os = "linux"
 
     [[Clang_assert.download]]
     sha256 = "abbeff7a611f068236cc0ca358fb68885d92a3196509a993c19d90c5e4acf3a1"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-linux-musl-cxx11.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 git-tree-sha1 = "198eb2f8d37568ef518f6130b5e5b33ef76b0761"
@@ -267,7 +267,7 @@ os = "freebsd"
 
     [[Clang_assert.download]]
     sha256 = "1cdd0c6fb9636042c24f348cd31a5fca3a8cc285b0b5165018a235aa1c3c9dd7"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-unknown-freebsd.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -276,7 +276,7 @@ os = "windows"
 
     [[Clang_assert.download]]
     sha256 = "d15f7397c125a1965f4452c1691843bc7c83d41663bc74fbe60d84650f745659"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Clang_assert]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -285,4 +285,4 @@ os = "windows"
 
     [[Clang_assert.download]]
     sha256 = "3bacc43415bf0d071bc04181b4d23a92ba14bebd7498363f51b4a89e55214db3"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+1/Clang_assert.v12.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_assert_jll.jl/releases/download/Clang_assert-v12.0.1+2/Clang_assert.v12.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
