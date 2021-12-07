@@ -4,16 +4,11 @@ export clang, libclang, libclang_cpp
 using Zlib_jll
 using libLLVM_assert_jll
 JLLWrappers.@generate_wrapper_header("Clang_assert")
-JLLWrappers.@declare_executable_product(clang)
 JLLWrappers.@declare_library_product(libclang, "libclang.dll")
 JLLWrappers.@declare_library_product(libclang_cpp, "libclang-cpp.dll")
+JLLWrappers.@declare_executable_product(clang)
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll, libLLVM_assert_jll)
-    JLLWrappers.@init_executable_product(
-        clang,
-        "tools\\clang.exe",
-    )
-
     JLLWrappers.@init_library_product(
         libclang,
         "bin\\libclang.dll",
@@ -24,6 +19,11 @@ function __init__()
         libclang_cpp,
         "bin\\libclang-cpp.dll",
         nothing,
+    )
+
+    JLLWrappers.@init_executable_product(
+        clang,
+        "tools\\clang.exe",
     )
 
     JLLWrappers.@generate_init_footer()
