@@ -1,6 +1,6 @@
 name = "Clang_assert_jll"
 uuid = "72d370af-b0e4-5787-9b36-2e8c6f54fb93"
-version = "13.0.1+1"
+version = "13.0.1+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
